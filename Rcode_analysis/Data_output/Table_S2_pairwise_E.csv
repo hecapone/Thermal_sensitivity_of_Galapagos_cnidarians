@@ -1,0 +1,7 @@
+"Species1","Species2","mean_diff","t","p_bonferroni"
+"Pdarw","Mplan",0.218,6.837,2.4e-05
+"Pdarw","Bgran",0.432,9.136,1e-06
+"Pdarw","Tcocc",0.46,14.469,0
+"Mplan","Bgran",0.214,4.914,0.000934
+"Mplan","Tcocc",0.243,9.337,0
+"Bgran","Tcocc",0.029,0.66,1
